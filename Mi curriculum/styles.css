@@ -1,0 +1,39 @@
+
+header, section {
+    width:960px;
+    margin: 0 auto;
+}
+body{
+    font-family:sans-serif;
+   
+}
+img{
+    width: 200px;
+    margin-right:20px;
+    padding:5px
+}
+header{
+    display:flex;
+    background-color:darkseagreen;
+    padding:5px;
+}
+section{
+    display:flex
+}
+article{
+    width: 50%;
+    margin:0 20px;
+}
+aside {
+    width: 50%;
+    margin: 0 20px;
+}
+article ul li{
+    margin-bottom:12px
+}
+aside ul li {
+    margin-bottom: 12px
+}
+footer {
+    background-color: darkseagreen
+}
